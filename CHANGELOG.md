@@ -1,3 +1,20 @@
+## Master
+
+##### Breaking
+
+* None.
+
+##### Enhancements
+
+* None.
+
+##### Bug Fixes
+
+* Add support for Objective-C module imports.  
+  [JP Simard](https://github.com/jpsim)
+  [#452](https://github.com/realm/jazzy/issues/452)
+
+
 ## 0.5.0
 
 ##### Breaking
